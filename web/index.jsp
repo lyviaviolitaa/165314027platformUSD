@@ -16,6 +16,6 @@
         Dalam menghadapi masa depan kamu tidak pernah ragu-ragu, apa yang dikerjakan kamu adalah yang terbaik. 
         Kamu pandai benar dalam mengikuti perkembangan jaman. 
         Dalam bercinta, hanya merekalah yang kuat mental yang bisa mendekati dan menjadi kekasih kamu.
-        Warna ungu yang sering kita sebut dengan warna janda ternyata mempunyai makna yang sangat baik.
+        Warna ungu yang sering kita sebut warna janda ternyata mempunyai makna yang sangat baik.
     </body>
 </html>
